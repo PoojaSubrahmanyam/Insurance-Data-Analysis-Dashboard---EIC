@@ -23,23 +23,12 @@ The goal of this dashboard is to help insurance stakeholders understand:
 ## 🧠 Key Features
 
 ✔️ DAX Measures for Avg Claim, Total Premium, Claim Ratio, etc.  
-✔️ New Card Visuals with Conditional Formatting  
+✔️ New Card Visuals  
 ✔️ Custom Bar and Ribbon Charts  
-✔️ Donut Chart Layering for Unique Visuals  
-✔️ Scatter Plot + Symmetry Shading for Outlier Detection  
+✔️ Pie Chart  
+✔️ Scatter Plot  
 ✔️ Matrix with Conditional Formatting to Spot Profitable Segments  
-✔️ Tooltip Pages for Better Drilldown  
-✔️ Custom Filter Behaviors and Page Navigation  
-✔️ Emoji-enhanced Labels 😎
-
-## 📁 Files Included
-
-| File Name                 | Description                          |
-|--------------------------|--------------------------------------|
-| `insurance data.xlsx`    | Raw insurance data (anonymized)      |
-| `insurance project png.png` | Dashboard screenshot                |
-| `EIC Insurance Dashboard.pbix` | Power BI report file (upload separately) |
-
+ 
 ## 📈 KPIs Tracked
 
 - Total Policies: **508K**
@@ -61,9 +50,9 @@ The goal of this dashboard is to help insurance stakeholders understand:
 
 If you're interested in collaborating or just want to chat data, feel free to reach out!
 
-📧 pooja@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-📊 [My Portfolio on NovyPro](https://www.novypro.com/yourprofile)
+ 
+🔗 [LinkedIn](linkedin.com/in/pooja-subrahmanyam)  
+
 
 ---
 
