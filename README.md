@@ -51,7 +51,8 @@ The goal of this dashboard is to help insurance stakeholders understand:
 If you're interested in collaborating or just want to chat data, feel free to reach out!
 
  
-🔗 [LinkedIn](linkedin.com/in/pooja-subrahmanyam)  
+🔗 [LinkedIn](linkedin.com/in/pooja-subrahmanyam) 
+🔗 [dataset](https://data.mendeley.com/datasets/34nfrk36dt/1)  
 
 
 ---
